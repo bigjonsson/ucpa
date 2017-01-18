@@ -63,4 +63,6 @@
  * [ ] Laddare
 * [ ] Mindre hänglås
 * [ ] Förgreningsdosa
+* [ ] GoPro
+* [ ] Något att lagra bilder på (USB-Disk)
 * [ ] Present till guiden
