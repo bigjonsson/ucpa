@@ -44,6 +44,7 @@
 * [ ] Nagelkit
 * [ ] Silvertejp
 * [ ] Knäskydd
+* [ ] Allen & Mike's Really Cool Telemark Tips (https://goo.gl/LLceFB)
 
 
 ## Matrelaterat
@@ -62,3 +63,4 @@
  * [ ] Laddare
 * [ ] Mindre hänglås
 * [ ] Förgreningsdosa
+* [ ] Present till guiden
