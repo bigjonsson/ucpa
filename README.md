@@ -28,6 +28,7 @@
 * [ ] Solglasögon
 * [ ] Hjälm
 * [ ] Mössa
+* [ ] EU-kort (https://goo.gl/56jydP)
 
 ## Offpist
 * [ ] Ryggsäck
