@@ -22,6 +22,7 @@
 * [ ] Visselpipa
 * [ ] Visakort
 * [ ] €-sar
+* [ ] laddningsbart ucpa bar kort (om man har ett sen tidigare)
 * [ ] Inneskor eller motsvarande
 * [ ] Solskyddsfaktor (för vinterbruk)
 * [ ] Googles
