@@ -52,7 +52,6 @@
 
 ## Snowboard
 * [ ] Tändare....
-* [ ] Sittdyna
 
 ## Matrelaterat
 * [ ] Areo press
