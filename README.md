@@ -49,6 +49,8 @@
 * [ ] Knäskydd
 * [ ] Allen & Mike's Really Cool Telemark Tips (https://goo.gl/LLceFB)
 
+## Snowboard
+* [ ] Sittdyna
 
 ## Matrelaterat
 * [ ] Areo press
