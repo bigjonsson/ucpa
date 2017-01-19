@@ -31,6 +31,7 @@
 * [ ] Hjälm
 * [ ] Mössa
 * [ ] EU-kort (https://goo.gl/56jydP)
+* [ ] Sittunderlag
 
 ## Offpist
 * [ ] Ryggsäck
@@ -50,7 +51,7 @@
 * [ ] Allen & Mike's Really Cool Telemark Tips (https://goo.gl/LLceFB)
 
 ## Snowboard
-* [ ] Sittdyna
+* [ ] Tändare....
 
 ## Matrelaterat
 * [ ] Areo press
