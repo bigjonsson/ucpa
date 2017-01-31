@@ -45,6 +45,7 @@
  * [ ] Extra bindning
 * [ ] Stavar
 * [ ] Pjäxor
+* [ ] Hudar
 * [ ] Nagelkit
 * [ ] Silvertejp
 * [ ] Knäskydd
